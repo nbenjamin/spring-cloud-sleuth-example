@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: payment-service
+#logging:
+ # level.org.springframework.cloud.sleuth: TRACE
+  #level.org.springframework.cloud.sleuth.instrument.web.TraceHandlerInterceptor: TRACE
+
